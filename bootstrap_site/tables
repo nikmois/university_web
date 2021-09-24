@@ -1,0 +1,19 @@
+1. Языки (id, title, descr, code, listOrder)
+2. Меню заголовка (id, title, listOrder, code, lang, parentCode)
+3. Клиенты (id, logoPic, listOrder)
+4. icon-box (id, icon, title, text, listOrder, lang)
+5. counts (id, icon, count, text, lang, listOrder)
+6. tabs (id, icon, title, header, text, image, lang, listOrder)
+7. icon-box в services (id, icon, title, title link, text, lang, listOrder)
+8. portfolio-filters в Portfolio (id, title, code, lang, listOrder)
+9. portfolio-item в Portfolio
+на основной странице (id, photos(через запятую), title, comment, listOrder, filter, lang)
+для отдельного открытия (header, text, category, client, projDate, projLink)
+10. testimonials-item (id, photo, name, profession, text, lang, listOrder)
+11. pricing-box (id, header, text, button, button link, lang, listOrder)
+12. li в faq-list (id, question, answer, lang, listOrder)
+13. member в Team (id, photo, twitter icon, twitter icon link, facebook icon, facebook icon link,
+instagramm icon, instagramm icon link, linkedin icon, linkedin icon link, name, job,
+lang, listOrder)
+14. col в footer (id, header, list object, list object link, lang, listOrder)
+15. таблица переводов (id, code, text)

@@ -1,0 +1,9 @@
+*{font-family: sans-serif;}
+h2{text-align: center; margin: 5px 0px 50px 0px;}
+p{color: #516387;}
+p:hover{background-color: #000000;}
+p:nth-child(2n){margin-left:80px;}
+.nachalo{font-style: italic; color: black;}
+#chtoto{font-size: 20px;}
+h2{font-family: 'Pacifico';}
+h1{font-family: 'Amatic SC';}

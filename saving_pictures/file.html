@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+<form name="albom" method="POST" action="saver.php" enctype="multipart/form-data"> 
+Фото: <input type="file" name="prodPhoto[]" accept="image/jpeg,image/png,image/gif" multiple />
+<input type="submit" value="загрузить" />
+<!--//
+В <input type="file" 
+без  multiple аттрибут name="названиеПеременной"
+с multiple аттрибут name="названиеМассива[]"
+//-->
+</form>
+</body>
+</html>
